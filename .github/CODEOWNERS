@@ -1,0 +1,18 @@
+# Code Owners for Quantum Rishi Stream Service
+# This file defines who owns and is responsible for code in this repository
+
+# Global owners - Quantum Rishi team
+* @QuantumRishi/admin @QuantumRishi/maintainers
+
+# Backend/Node.js specific files
+*.js @QuantumRishi/backend-team
+package.json @QuantumRishi/backend-team
+index.js @QuantumRishi/backend-team
+
+# Docker and deployment
+Dockerfile @QuantumRishi/devops-team
+.github/workflows/ @QuantumRishi/devops-team
+
+# Documentation
+README.md @QuantumRishi/docs-team
+*.md @QuantumRishi/docs-team
