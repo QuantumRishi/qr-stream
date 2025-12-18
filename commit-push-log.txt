@@ -7,8 +7,3 @@
   SUCCESS: Committed changes in qr-stream
   SUCCESS: Pushed qr-stream to cloud
   INFO: qr-stream has uncommitted changes, proceeding with commit
-  ERROR: Failed to process qr-stream - Failed to commit in qr-stream
-  INFO: qr-stream has uncommitted changes, proceeding with commit
-  SUCCESS: Committed changes in qr-stream
-  SUCCESS: Pushed qr-stream to cloud
-  INFO: qr-stream has uncommitted changes, proceeding with commit
